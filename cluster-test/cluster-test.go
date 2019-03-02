@@ -17,7 +17,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	elastic "gopkg.in/Beeketing/elastic.v3"
+	elastic "github.com/Beeketing/elastic"
 )
 
 type Tweet struct {

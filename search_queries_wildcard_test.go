@@ -8,7 +8,7 @@ import (
 	"encoding/json"
 	"testing"
 
-	"gopkg.in/Beeketing/elastic.v3"
+	"github.com/Beeketing/elastic"
 )
 
 func ExampleWildcardQuery() {

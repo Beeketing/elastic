@@ -16,7 +16,7 @@ import (
 
 	"golang.org/x/sync/errgroup"
 
-	elastic "gopkg.in/Beeketing/elastic.v3"
+	elastic "github.com/Beeketing/elastic"
 )
 
 type Tweet struct {
