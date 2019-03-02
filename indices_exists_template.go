@@ -10,7 +10,7 @@ import (
 	"net/http"
 	"net/url"
 
-	"gopkg.in/olivere/elastic.v3/uritemplates"
+	"gopkg.in/Beeketing/elastic.v3/uritemplates"
 )
 
 // IndicesExistsTemplateService checks if a given template exists.

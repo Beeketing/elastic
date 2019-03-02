@@ -33,7 +33,7 @@ $ go get gopkg.in/olivere/elastic.v3
 You then import it with this import path:
 
 ```go
-import "gopkg.in/olivere/elastic.v3"
+import "gopkg.in/Beeketing/elastic.v3"
 ```
 
 ### Elastic 3.0

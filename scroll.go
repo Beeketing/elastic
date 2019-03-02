@@ -12,7 +12,7 @@ import (
 	"strings"
 	"sync"
 
-	"gopkg.in/olivere/elastic.v3/uritemplates"
+	"gopkg.in/Beeketing/elastic.v3/uritemplates"
 )
 
 // ScrollService iterates over pages of search results from Elasticsearch.

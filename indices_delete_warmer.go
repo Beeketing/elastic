@@ -10,7 +10,7 @@ import (
 	"net/url"
 	"strings"
 
-	"gopkg.in/olivere/elastic.v3/uritemplates"
+	"gopkg.in/Beeketing/elastic.v3/uritemplates"
 )
 
 // IndicesDeleteWarmerService allows to delete a warmer.
