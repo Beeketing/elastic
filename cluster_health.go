@@ -10,7 +10,7 @@ import (
 	"net/url"
 	"strings"
 
-	"gopkg.in/Beeketing/elastic.v3/uritemplates"
+	"github.com/Beeketing/elastic/uritemplates"
 )
 
 // ClusterHealthService allows to get a very simple status on the health of the cluster.

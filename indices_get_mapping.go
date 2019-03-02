@@ -10,7 +10,7 @@ import (
 	"net/url"
 	"strings"
 
-	"gopkg.in/Beeketing/elastic.v3/uritemplates"
+	"github.com/Beeketing/elastic/uritemplates"
 )
 
 // IndicesGetMappingService retrieves the mapping definitions for an index or

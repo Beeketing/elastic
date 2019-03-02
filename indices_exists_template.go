@@ -10,7 +10,7 @@ import (
 	"net/http"
 	"net/url"
 
-	"gopkg.in/Beeketing/elastic.v3/uritemplates"
+	"github.com/Beeketing/elastic/uritemplates"
 )
 
 // IndicesExistsTemplateService checks if a given template exists.

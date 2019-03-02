@@ -9,7 +9,7 @@ import (
 	"fmt"
 	"net/url"
 
-	"gopkg.in/Beeketing/elastic.v3/uritemplates"
+	"github.com/Beeketing/elastic/uritemplates"
 )
 
 // DeleteService allows to delete a typed JSON document from a specified

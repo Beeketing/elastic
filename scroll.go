@@ -12,7 +12,7 @@ import (
 	"strings"
 	"sync"
 
-	"gopkg.in/Beeketing/elastic.v3/uritemplates"
+	"github.com/Beeketing/elastic/uritemplates"
 )
 
 // ScrollService iterates over pages of search results from Elasticsearch.

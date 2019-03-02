@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"net/url"
 
-	"gopkg.in/Beeketing/elastic.v3/uritemplates"
+	"github.com/Beeketing/elastic/uritemplates"
 )
 
 // PutTemplateService creates or updates a search template.

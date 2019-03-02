@@ -9,7 +9,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"gopkg.in/Beeketing/elastic.v3/backoff"
+	"github.com/Beeketing/elastic/backoff"
 )
 
 // BulkProcessorService allows to easily process bulk requests. It allows setting

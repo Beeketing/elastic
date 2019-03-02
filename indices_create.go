@@ -9,7 +9,7 @@ import (
 	"errors"
 	"net/url"
 
-	"gopkg.in/Beeketing/elastic.v3/uritemplates"
+	"github.com/Beeketing/elastic/uritemplates"
 )
 
 // IndicesCreateService creates a new index.

@@ -12,7 +12,7 @@ import (
 	"reflect"
 	"strings"
 
-	"gopkg.in/Beeketing/elastic.v3/uritemplates"
+	"github.com/Beeketing/elastic/uritemplates"
 )
 
 // Search for documents in Elasticsearch.
